@@ -14,6 +14,6 @@ AIC = Akaike information criterion
 
 PRESS =  predicted residual error sum of squares
 
-NOTE: This program allows the user to enter one to six predictor variables, inclusive. The console must also be resized to display the output correctly.  I left all comments in this submission in case I want to return to it later and make corrections.
+NOTE: This program allows the user to enter one to six predictor variables, inclusive. The console must also be resized to display the output correctly.  I left all comments in this submission in case I want to return to it later and make changes. This program could, and should, be written into a function. 
 
 In this example, the dataset, "APPENC03", must be imported into R-studio. 
